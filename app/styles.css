@@ -1,28 +1,17 @@
-.brunch {
-  font-family: -apple-system, Sans-Serif;
-  text-align: center;
-  font-size: 24pt;
-  color: #3f894a;
-  width: 100%;
-  background-color: azure;
-
-}
-
 body {
-  background-color: blue;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-}
-
-.test {
-  width: 30vh;
-  background-color: blueviolet;
-  height: 20vh;
-  border: 1px solid blue;
-  text-align: center;
-  line-height: 20vh;
-
+  background-color: #e8effc;
 }
 
 
+.post-content {
+  
+  margin-top: 2em;
+  margin-left: 1em;
+  margin-right: 1em;
+}
+
+.posts-sticker {
+  height: 40vh;
+  
+  
+}
