@@ -2,6 +2,10 @@ body {
   background-color: #e8effc;
 }
 
+.posts {
+  margin-top: 15em;
+}
+
 
 .post-content {
   
@@ -11,7 +15,7 @@ body {
 }
 
 .posts-sticker {
-  height: 40vh;
+  height: auto;
   
   
 }
