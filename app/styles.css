@@ -1,5 +1,6 @@
 body {
   background-color: #e8effc;
+  font-family: 'Acme', sans-serif;
 }
 
 .posts {
@@ -51,4 +52,12 @@ body {
 .btn-submit:hover span:after {
   opacity: 1;
   right: 0;
+}
+
+.footer-bottom {
+  background-color: white;
+}
+
+.main-contact {
+  margin-top: 12em;
 }
