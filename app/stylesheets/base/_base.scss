@@ -1,0 +1,19 @@
+html {
+    height: 100%;
+    box-sizing: border-box;
+  }
+    
+    body {
+    background-color: #e8effc;
+    font-family: 'Acme', sans-serif;
+    min-height: 78%;
+    margin: 0;
+    padding-bottom: 7em;
+    position: relative;
+  }
+
+  @media (max-width: 991px) {
+    body {
+      padding-top : 7em;
+    }
+  }
